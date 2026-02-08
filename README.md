@@ -64,10 +64,11 @@ Built with modern frontend and scalable backend architecture.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-prabhakarzha&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabhakarzha&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakarzha&layout=compact&theme=radical)
 
 </div>
+
 
 ---
 
