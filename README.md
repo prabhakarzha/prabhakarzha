@@ -74,7 +74,7 @@ Built with modern frontend and scalable backend architecture.
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 📧 Email: yourmail@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/prabhakar-zha/
+- 📧 Email: kumarprabhakar141@gmail.com
 
 ⭐ Feel free to explore my repos and drop a star if something helps you!
