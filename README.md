@@ -1,61 +1,80 @@
-# Hi, I'm Prabhakar 👋
+<div align="center">
 
-Full Stack Software Engineer with 3 years of experience building scalable web applications using React, Redux, Node.js, and MongoDB.  
-I enjoy solving real-world problems, optimizing performance, and building clean, user-friendly interfaces with solid backend logic.
+# 👋 Hi, I'm Prabhakar  
+### Full Stack Software Engineer | MERN | React | Node.js
 
----
+<p>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=brightgreen&style=flat-square" />
+</p>
 
-## 🚀 Tech Stack
-
-**Frontend:**  
-React, Next.js, Redux, HTML, CSS, Tailwind
-
-**Backend:**  
-Node.js, Express, REST APIs
-
-**Database:**  
-MongoDB
-
-**Tools:**  
-Git, GitHub, Postman, Jira  
-Basic AWS
+</div>
 
 ---
 
-## 💼 What I’m Working On
+## ✨ About Me
 
-- Building **LocalHub** – a platform to discover and book local events and services  
-- Improving DSA and system design fundamentals  
-- Learning Generative AI and integrating AI features into web apps  
+I’m a Full Stack Software Engineer with 3 years of experience building scalable, user-friendly web applications.  
+I like working on real-world products, improving performance, and keeping the UI clean and intuitive.
 
 ---
 
-## 📌 Featured Project
+## 🧰 Tech Stack
 
-### 🔹 LocalHub  
-A full-stack platform to explore local events and services, and book/contact providers from a single place.  
-Includes authentication, user profiles, event & service booking, and admin management.
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
+
+**Database & Tools**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
+
+---
+
+## 🚀 Featured Project
+
+### 🌍 LocalHub  
+A platform to discover local events and services, and book or contact providers from one place.  
+Built with modern frontend and scalable backend architecture.
+
+**Highlights**
+- 🔐 Auth & user profiles  
+- 📅 Event and service booking  
+- 🧭 Clean, responsive UI  
+- ⚡ Optimized API performance  
 
 **Tech:** React / Next.js, Redux Toolkit, Node.js, Express, MongoDB  
-👉 Repo: https://github.com/your-username/localhub  
-👉 Live Demo: https://your-live-link.com (optional)
+🔗 Repo: https://github.com/your-username/localhub  
+🌐 Live: https://your-live-link.com (optional)
 
 ---
 
-## 🧠 Core Strengths
+## 📈 GitHub Stats
 
-- Component-based architecture  
-- State management (Redux)  
-- API integration & performance optimization  
-- Clean code and reusable components  
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
-## 📫 Let’s Connect
-
-- LinkedIn: https://linkedin.com/in/your-profile  
-- Email: yourmail@gmail.com  
+</div>
 
 ---
 
-⭐ If you find my work useful, feel free to star the repos and connect!
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 📧 Email: yourmail@gmail.com  
+
+⭐ Feel free to explore my repos and drop a star if something helps you!
