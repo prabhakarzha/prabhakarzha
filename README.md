@@ -4,10 +4,10 @@
 ### Full Stack Software Engineer | MERN | React | Node.js
 
 <p>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/prabhakar-zha/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:kumarprabhakar141@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=brightgreen&style=flat-square" />
@@ -56,8 +56,7 @@ Built with modern frontend and scalable backend architecture.
 - ⚡ Optimized API performance  
 
 **Tech:** React / Next.js, Redux Toolkit, Node.js, Express, MongoDB  
-🔗 Repo: https://github.com/your-username/localhub  
-🌐 Live: https://your-live-link.com (optional)
+🌐 Live: https://local-hub.vercel.app/
 
 ---
 
